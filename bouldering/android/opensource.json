@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Android Architecture Blueprints",
+    "url": "https://github.com/googlesamples/android-architecture",
+    "license": "Copyright 2019 Google Inc.\nApache License, Version 2.0"
+  },
+  {
+    "name": "PhotoView",
+    "url": "https://github.com/chrisbanes/PhotoView",
+    "license": "Copyright 2011, 2012 Chris Banes.\nApache License, Version 2.0"
+  },
+  {
+    "name": "Color Picker",
+    "url": "https://github.com/QuadFlask/colorpicker",
+    "license": "Copyright 2014-2017 QuadFlask.\nApache License, Version 2.0"
+  }
+]
